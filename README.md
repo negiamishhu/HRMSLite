@@ -4,8 +4,8 @@ A lightweight Human Resource Management System (HRMS) built with Django, React, 
 
 ## Live Demo
 
-- **Frontend**: [Deployed URL will be here]
-- **Backend API**: [Deployed URL will be here]
+- **Frontend**: [(https://hrms-lite-xi.vercel.app/)]
+- **Backend API**: [https://hrmslite.onrender.com/]
 
 ## Tech Stack
 
